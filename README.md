@@ -1,4 +1,6 @@
-# 09 Node.js Challenge: Professional README Generator
+## 09 Node.js Challenge: Professional README Generator
+
+# The README-file 
 
 ## Project Description
 
@@ -20,7 +22,8 @@ Please refer to link above to watch the demo -
 Please refer to this image for still picture of demo video - 
 
 ## License
-The README-file is open-source software. It is licensed under the MIT License.
+
+The README-file is licensed under the MIT License.
 
 ## Contact
 
